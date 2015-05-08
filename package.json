@@ -1,7 +1,7 @@
 {
-  "name": "nodemailer-express",
+  "name": "landing-page-express",
   "version": "0.0.1",
-  "description": "Example script for using Nodemailer with a POST request using Express",
+  "description": "Basic express app to serve static directory. Comes with form validation + email.",
   "main": "app.js",
   "dependencies": {
     "body-parser": "^1.9.1",
@@ -18,6 +18,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Dennis Martinez",
-  "license": "ISC"
+  "author": "Matthew Jones",
+  "license": "MIT"
 }
