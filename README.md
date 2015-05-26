@@ -18,6 +18,10 @@ You can basically just throw in a static website into the /public folder, and so
 
 This app is a fork of Denmart's [nodemailer-express](https://github.com/dennmart/nodemailer-express).
 
-[@oompt](http://twitter.com/oompt)
 
-License MIT
+
+
+---
+
+MIT License
+http://opensource.org/licenses/MIT
