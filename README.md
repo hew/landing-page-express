@@ -1,6 +1,6 @@
 # Landing Page - Express 
 
-This is an Express app that is meant to serve as the back end for a landing page (with a form).
+This is an Express app that is meant to serve as the back end for a landing page (with a form).
 
 
 ## How it Works
