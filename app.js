@@ -86,8 +86,8 @@ app.post('/contact',
               } else {
 
                var mailOptions = {
-                 from: 'Ape Conversion Inquiry:' + req.body.name + req.body.last + '<mailgun@sandbox7a868ae74ec14c9e99cb643b101cae0d.mailgun.org>',
-                 to: 'mathujones@gmail.com',
+                 from: 'Your Email Here' + req.body.name + req.body.last + '<mailgun@sandbox_mailgun.org>',
+                 to: 'someone@gmail.com',
                  subject: req.body.option,
                  text: 'From: ' + req.body.name + ' <' + req.body.email + '>\nmessage: ' + req.body.text
                };
